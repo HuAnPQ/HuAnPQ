@@ -65,7 +65,7 @@ I am a Software Test Engineer <img src="https://media1.giphy.com/media/v1.Y2lkPT
 ---
 
 ### :fire: My Stats :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HuAnPQ" alt="HuAnPQ" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HuAnPQ&rank=-?&row=2&column=5&theme=chalk&margin-w=8&margin-h=8&no-bg=true" alt="HuAnPQ" width="800"/></a> </p>
 <div align="center">  
   <img src="http://github-readme-streak-stats.herokuapp.com?user=HuAnPQ&theme=dark&background=000000" width="600"/>
 </div>
