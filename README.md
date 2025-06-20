@@ -70,5 +70,6 @@ I am a Software Test Engineer <img src="https://media1.giphy.com/media/v1.Y2lkPT
   <img src="http://github-readme-streak-stats.herokuapp.com?user=HuAnPQ&theme=dark&border_radius=&mode=weekly" alt="GitHub Streak HuAnPQ" width="800" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuAnPQ&layout=compact&theme=vision-friendly-dark" width="800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HuAnPQ&layout=compact&theme=tokyonight&show_icons=true" width="400" height="200" alt="Readme Stats API HuAnPQ"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuAnPQ&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight" width="400" height="200" alt="Readme Stats TopLangs HuAnPQ"/>
 </div>
